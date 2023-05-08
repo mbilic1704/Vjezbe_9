@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_Zanrovi_knjige_2", "06_Z
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_Product_Categories", "09_Product_Categories\09_Product_Categories.csproj", "{6811904B-64FC-401A-BE2C-820420D0F9BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_Employees_Task", "11_Employees_Task\11_Employees_Task.csproj", "{C47B8F82-42B3-425A-B2FF-F879931F110F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{6811904B-64FC-401A-BE2C-820420D0F9BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6811904B-64FC-401A-BE2C-820420D0F9BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6811904B-64FC-401A-BE2C-820420D0F9BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C47B8F82-42B3-425A-B2FF-F879931F110F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C47B8F82-42B3-425A-B2FF-F879931F110F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C47B8F82-42B3-425A-B2FF-F879931F110F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C47B8F82-42B3-425A-B2FF-F879931F110F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
