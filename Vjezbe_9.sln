@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_Izvršeni_zadaci", "14_I
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16_Sensors2", "16_Sensors2\16_Sensors2.csproj", "{CE37AA95-F89A-48AE-A28B-E884F85B62D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17_Sensors3", "17_Sensors3\17_Sensors3.csproj", "{17A8B91A-872A-45CE-B124-B9A7B65F857A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20", "20\20.csproj", "{4D796A00-3535-4660-B4DC-67E2ED4A43A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{CE37AA95-F89A-48AE-A28B-E884F85B62D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE37AA95-F89A-48AE-A28B-E884F85B62D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE37AA95-F89A-48AE-A28B-E884F85B62D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17A8B91A-872A-45CE-B124-B9A7B65F857A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17A8B91A-872A-45CE-B124-B9A7B65F857A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17A8B91A-872A-45CE-B124-B9A7B65F857A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17A8B91A-872A-45CE-B124-B9A7B65F857A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D796A00-3535-4660-B4DC-67E2ED4A43A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D796A00-3535-4660-B4DC-67E2ED4A43A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D796A00-3535-4660-B4DC-67E2ED4A43A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D796A00-3535-4660-B4DC-67E2ED4A43A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
